@@ -12,8 +12,8 @@ global.APIKeys = {
 
 global.namabot = "Miyamura"
 global.namaowner = "Fikriisky"
-global.packname = Miyamura
-global.author = Fikriisky
+global.packname = "Miyamura"
+global.author = "Fikriisky"
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
